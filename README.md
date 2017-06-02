@@ -2,6 +2,7 @@
 
 # Hardware Setup
 This section gives how to bring up the Hardware to test Openthread. 
+[a link](https://github.com/rmadhuraj/testing/blob/master/DW1000/doc/Hardware_setup.md)
 
 
 [dw-repo]: https://github.com/rmadhuraj/testing
