@@ -1,10 +1,10 @@
 # Hardware Setup
 This section gives how to bring up the Hardware to test Openthread. 
 
-[dw-repo]: https://github.com/rmadhuraj/testing/tree/master
+[dw-repo]: https://github.com/rmadhuraj/testing
 [nordic-img]: DW1000/doc/images/nordic.png
 [evb1000-img]: DW1000/doc/images/evb1000.png
-[evb-nordic-img]: blob/master/DW1000/doc/images/evb-nordic.png
+[evb-nordic-img]: DW1000/doc/images/evb-nordic.png
 
 ## Interfacing EVB1000 with Nordic nRF52840 pdk
  |PIN|EVB1000|NRF52840|
@@ -21,7 +21,7 @@ This section gives how to bring up the Hardware to test Openthread.
 
 [![nRF52840][nordic-img]][dw-repo]
 
-[nordic-img](https://github.com/rmadhuraj/testing/blob/master/DW1000/doc/images/nordic.png)
+![nordic-img](https://github.com/rmadhuraj/testing/blob/master/DW1000/doc/images/nordic.png)
 
 [nordic-img](https://github.com/rmadhuraj/testing/blob/master/DW1000/doc/images/nordic.png)
 
@@ -30,7 +30,11 @@ This section gives how to bring up the Hardware to test Openthread.
 
 [![Decawave][evb1000-img]][dw-repo]
 
+![Decawace](./images/evb1000.png)
+
 ## Connecting Nordic Hardware to EVM with SPI Interface
 
 [![Decawave-Nordic][evb-nordic-img]][dw-repo]
+
+![Decawace](./images/evb-nordic.png)
 
