@@ -1,8 +1,8 @@
 #Hardware Setup
 This section gives how to bring up the Hardware to test Openthread. 
-[dw-repo]: https://github.com/Decawave/ot-dw1000
-[nordic-img]: DW1000/doc/images/dw1000/nordic.png
-[evb1000-img]: DW1000/doc/images/dw1000/evb1000.png
+[dw-repo]: https://github.com/rmadhuraj/testing
+[nordic-img]: DW1000/doc/images/nordic.png
+[evb1000-img]: DW1000/doc/images/evb1000.png
 [evb-nordic-img]: DW1000/doc/images/evb-nordic.png
 
 ## Interfacing EVB1000 with Nordic nRF52840 pdk
