@@ -6,8 +6,8 @@ This section gives how to bring up the Hardware to test Openthread.
 
 
 
-[dw-repo]: https://github.com/rmadhuraj/testing
-[nordic-img]: ./blob/master/DW1000/doc/images/nordic.png
+[dw-repo]: https://github.com/rmadhuraj/testing/blob/master
+[nordic-img]: DW1000/doc/images/nordic.png
 [evb1000-img]: /blob/master/DW1000/doc/images/evb1000.png
 [evb-nordic-img]: blob/master/DW1000/doc/images/evb-nordic.png
 [ot-logo]: blob/master/DW1000/doc/images/openthread_logo.png
