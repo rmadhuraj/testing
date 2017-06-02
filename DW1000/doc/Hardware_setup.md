@@ -23,6 +23,9 @@ This section gives how to bring up the Hardware to test Openthread.
 
 ![nordic-img](https://github.com/rmadhuraj/testing/blob/master/DW1000/doc/images/nordic.png)
 
+[nordic-img](https://github.com/rmadhuraj/testing/blob/master/DW1000/doc/images/nordic.png)
+
+
 ## Connection Details of SPI Interface on NRF52840 Nordic Platform
 
 [![Decawave][evb1000-img]][dw-repo]
